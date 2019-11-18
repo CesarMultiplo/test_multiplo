@@ -1,4 +1,6 @@
 es un altre prova
-ok!
 
 *****
+
+
+Sembla doncs que també funciona el Git amb el phpDesigner! :D
